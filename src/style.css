@@ -1,0 +1,240 @@
+.swiiipe {
+    height: 100vh !important;
+    /* overflow-y: hidden !important; */
+}
+
+.color-1 {
+    background-color: #0D0D0D !important;
+}
+
+.color-2 {
+    background-color: #262626 !important;
+}
+
+.color-3 {
+    background-color: #595959 !important;
+}
+
+.color-4 {
+    background-color: #A6A6A6 !important;
+}
+
+.color-5 {
+    background-color: #D9D9D9 !important;
+}
+
+.color-6 {
+    background-color: #EBEDF2 !important;
+}
+
+.black-font {
+    color: black !important;
+}
+
+.white-font {
+    color: white !important;
+}
+
+.carousel-slider {
+    height: 100vh !important;
+}
+
+body {
+    overflow-y: hidden !important;
+    background-image: url('./assets/month/home.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tabs .tab a {
+    padding: 0px !important;
+}
+
+.card-home {
+    margin: 5% 20% 20% 20% !important;
+    height: 75vh !important;
+    background-color: rgba(38, 38, 38, 0.8);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    margin: 5% 10% 20% 10%;
+    height: 75vh;
+    background-color: rgba(38, 38, 38, 0.8);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+
+.overflow-hidden::-webkit-scrollbar {
+    display: none;
+}
+
+.overflow-hidden {
+    overflow: scroll !important;
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.project-image {
+    margin: 1vh 1vh 1vh 1vh;
+    width: 95%;
+    min-height: 50vh;
+    max-height: 55vh;
+    object-fit: contain;
+}
+
+.month {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.modal-contact {
+    width: 40vw;
+}
+
+.form-contact {
+    margin: 5% 10% 5% 10%;
+}
+
+.december {
+    background-image: url('./assets/month/december.jpg');
+}
+
+.january {
+    background-image: url('./assets/month/january.jpg');
+}
+
+.february {
+    background-image: url('./assets/month/february.jpg');
+}
+
+.march {
+    background-image: url('./assets/month/march.jpg');
+}
+
+.april {
+    background-image: url('./assets/month/april.jpg');
+}
+
+.may {
+    background-image: url('./assets/month/may.jpg');
+}
+
+.june {
+    background-image: url('./assets/month/june.jpg');
+}
+
+@media screen and (max-width: 602px) {
+    .card {
+        margin: 18% 5% 5% !important;
+        height: 80vh !important;
+    }
+    .language-icon {
+        max-width: 30px;
+    }
+    .hide-when-small {
+        display: none !important;
+    }
+    .modal-contact {
+        width: 80vw;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .paragraph-too-big {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 602px) {}
+
+@media screen and (max-width: 994px) {
+    .card {
+        margin: 10% 5% 5%;
+        height: 72vh;
+    }
+    .project-image {
+        display: none !important;
+    }
+    .project-buttons {
+        margin-top: 0vh !important;
+        position: relative !important;
+    }
+    .project-buttons-june {
+        margin-top: 2vh !important;
+        position: relative !important;
+    }
+}
+
+.project-title {
+    margin-top: 0 !important;
+}
+
+.language {
+    align-items: center;
+}
+
+.project-buttons {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    min-width: 300px;
+}
+
+.project-buttons-june {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    min-width: 300px;
+}
+
+.language-icon {
+    margin-right: 10px;
+    height: 30px;
+    min-width: 26px;
+}
+
+.small-margin-top {
+    margin-top: 5% !important;
+}
+
+.small-margin-top-tabs {
+    position: relative;
+    top: 10% !important;
+}
+
+.small-margin {
+    margin: 1vh;
+}
+
+.navbar-icon {
+    position: relative;
+    height: 30px;
+}
+
+.font-size-16 {
+    font-size: 14px !important;
+    margin-right: 5px;
+}
+
+button, input[type="submit"] {
+    background: url('./assets/random-icons/send.png') no-repeat;
+    color: inherit;
+    border: none;
+    padding: 0;
+    width: 36px;
+    height: 36px;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
