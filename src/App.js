@@ -5,7 +5,7 @@ import Home from './components/index/Home'
 import Info from './components/journey/Info'
 import './style.css'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
