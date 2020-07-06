@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/antonio-tina/static/css/main.54120e6e.chunk.css",
-    "main.js": "/antonio-tina/static/js/main.43f8f8a8.chunk.js",
-    "main.js.map": "/antonio-tina/static/js/main.43f8f8a8.chunk.js.map",
+    "main.js": "/antonio-tina/static/js/main.2c8c30fd.chunk.js",
+    "main.js.map": "/antonio-tina/static/js/main.2c8c30fd.chunk.js.map",
     "runtime-main.js": "/antonio-tina/static/js/runtime-main.cbed9ae9.js",
     "runtime-main.js.map": "/antonio-tina/static/js/runtime-main.cbed9ae9.js.map",
     "static/css/2.f0f662b8.chunk.css": "/antonio-tina/static/css/2.f0f662b8.chunk.css",
     "static/js/2.a9a58ea7.chunk.js": "/antonio-tina/static/js/2.a9a58ea7.chunk.js",
     "static/js/2.a9a58ea7.chunk.js.map": "/antonio-tina/static/js/2.a9a58ea7.chunk.js.map",
     "index.html": "/antonio-tina/index.html",
-    "precache-manifest.a5cadaed4f0315a7c8e9e10393e83cf5.js": "/antonio-tina/precache-manifest.a5cadaed4f0315a7c8e9e10393e83cf5.js",
+    "precache-manifest.aba04e126ae2432fc280f646f02dc02e.js": "/antonio-tina/precache-manifest.aba04e126ae2432fc280f646f02dc02e.js",
     "service-worker.js": "/antonio-tina/service-worker.js",
     "static/css/2.f0f662b8.chunk.css.map": "/antonio-tina/static/css/2.f0f662b8.chunk.css.map",
     "static/css/main.54120e6e.chunk.css.map": "/antonio-tina/static/css/main.54120e6e.chunk.css.map",
@@ -42,6 +42,6 @@
     "static/css/2.f0f662b8.chunk.css",
     "static/js/2.a9a58ea7.chunk.js",
     "static/css/main.54120e6e.chunk.css",
-    "static/js/main.43f8f8a8.chunk.js"
+    "static/js/main.2c8c30fd.chunk.js"
   ]
 }
