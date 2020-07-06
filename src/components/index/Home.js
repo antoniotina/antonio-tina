@@ -30,13 +30,13 @@ function Home() {
                                     <div className='row'>
                                         <br />
                                         <p>
-                                            Hello, I'm Antonio Tina and I'm a Full Stack Web developer based in Paris, France.
+                                            Hello, I'm Antonio Tina and I'm a Full Stack Web developer based in Paris, France.&nbsp
                                             <span className='paragraph-too-big'>
-                                                Born and raised in Portugal, i moved to france when i was 18.
+                                                Born and raised in Portugal, I moved to france when I was 18.
                                             </span>
                                             <br />
-                                            I worked as an IT technician and Network Administrator for 4 and a half years. Always having a passion for coding, once i saw Samsung Campus' offer,
-                                            i couldn't have passed on it!
+                                            I worked as an IT technician and Network Administrator for 4 and a half years. Always having a passion for coding, once I saw Samsung Campus' offer,
+                                            I couldn't have passed on it!
                                         </p>
                                         <hr />
                                         <small className='valign-wrapper'>
