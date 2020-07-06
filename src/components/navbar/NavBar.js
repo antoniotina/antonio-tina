@@ -29,7 +29,10 @@ function NavBar() {
                     <ul className="right">
                         <li>
                             <a className="modal-trigger" href="#modal1">
-                                Contact Me
+                                <span className='hide-when-small'>
+                                    Contact Me
+                                </span>
+                                <i className="material-icons right show-when-small">email</i>
                             </a>
                         </li>
                         <li>

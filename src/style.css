@@ -145,8 +145,17 @@ body {
     .hide-when-small {
         display: none !important;
     }
+    .show-when-small {
+        display: block;
+    }
     .modal-contact {
         width: 80vw;
+    }
+}
+
+@media screen and (min-width: 603px) {
+    .show-when-small {
+        display: none !important;
     }
 }
 
@@ -155,8 +164,6 @@ body {
         display: none !important;
     }
 }
-
-@media screen and (max-width: 602px) {}
 
 @media screen and (max-width: 994px) {
     .card {
