@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c29446fcdfea16f5e0e657d378a74e83",
+    "revision": "b99bef5ea7ebbb98e2417a1eaeb07a90",
     "url": "/antonio-tina/index.html"
   },
   {
-    "revision": "52b94bc22452cd44303f",
+    "revision": "3bb72b01d556ec1c69d6",
     "url": "/antonio-tina/static/css/2.f0f662b8.chunk.css"
   },
   {
-    "revision": "a9efb2d9c195133a7684",
+    "revision": "827fbe12ec45e398f294",
     "url": "/antonio-tina/static/css/main.54120e6e.chunk.css"
   },
   {
-    "revision": "52b94bc22452cd44303f",
-    "url": "/antonio-tina/static/js/2.a9a58ea7.chunk.js"
+    "revision": "3bb72b01d556ec1c69d6",
+    "url": "/antonio-tina/static/js/2.572d1019.chunk.js"
   },
   {
     "revision": "8debe1713c30c1c8fa79b57451984727",
-    "url": "/antonio-tina/static/js/2.a9a58ea7.chunk.js.LICENSE.txt"
+    "url": "/antonio-tina/static/js/2.572d1019.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9efb2d9c195133a7684",
-    "url": "/antonio-tina/static/js/main.2c8c30fd.chunk.js"
+    "revision": "827fbe12ec45e398f294",
+    "url": "/antonio-tina/static/js/main.02c7fab0.chunk.js"
   },
   {
     "revision": "a07415522958316fe0cc",
